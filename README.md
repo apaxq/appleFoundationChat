@@ -1,5 +1,5 @@
 # Apple Foundation Chat
-An example application of a terminal based chat application using `FoundationModels`.
+An example application of a terminal based AI chat application using `FoundationModels`.
 
 Requirements:
 - An M1 or later Apple device (tested on a M4 Max laptop)
